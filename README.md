@@ -1,6 +1,30 @@
 # ACME-2022-2023-WebDesign
-Esercizi di WebDesign
 
+Questo repository espone i link a tutti i progetti sviluppati durante il corso di WebDesign, tenuto per Accademia di Belle Arti di Novara, anno accademico 2022-2023.
+
+## Progetto da svolgere durante il corso
+
+All'interno del corso di WebDesign ognuno andrà a realizzare la grafica di sito aziendale mono-pagina
+
+### Elementi principali
+
+- Nome azienda e motto
+- Chi siamo
+- I servizi che offriamo
+
+### Elementi descrittivi
+
+- Blog e notizie
+- Testimonial
+- Dove trovarci
+- Modulo di contatto
+
+### Caratteristiche
+
+- Responsive
+- Esente da errori sintattici
+
+## Di seguito vengono riportati autori e progetti sviluppati
 
 | Alunno | GitHub | Netlify |
 |:------|:------------|:-|
