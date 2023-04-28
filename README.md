@@ -33,4 +33,5 @@ All'interno del corso di WebDesign ognuno andrà a realizzare la grafica di sito
 | Iannuzzi Simona | https://github.com/simonaiannuzzi/progetto-web-design | https://spontaneous-custard-332bc6.netlify.app/ |
 | Fatta Francesca | https://github.com/francescafatta/Progetto-esame-Web-Design | https://stellar-taiyaki-255f2b.netlify.app/ |
 | Perocchio Sara | https://github.com/saraperocchio/Test-web-design | https://fancy-macaron-687e3e.netlify.app/ |
+| Severin Aurora | https://github.com/Auro1201/Esercizio-Di-Web-Design | https://statuesque-dodol-691f14.netlify.app/ |
 
