@@ -29,9 +29,9 @@ All'interno del corso di WebDesign ognuno andrà a realizzare la grafica di sito
 | Alunno | GitHub | Netlify |
 |:------|:------------|:-|
 | Bossi Sara | https://github.com/BossiSara/NUOVO-PROGETTO-WEB-DESIGN | https://poetic-chaja-7179d1.netlify.app/ |
-| Coretto Ariele | https://github.com/ari8975/sito-web-AC/ | https://euphonious-bublanina-142fae.netlify.app/ |
 | Castellano Annalisa | https://github.com/Annazz15/Progetto-ACME | https://superlative-cranachan-d84123.netlify.app/ |
 | Cimma Chiara | https://github.com/chiaracimma/chiara | https://chiaracimmabrand.netlify.app/ |
+| Coretto Ariele | https://github.com/ari8975/sito-web-AC/ | https://euphonious-bublanina-142fae.netlify.app/ |
 | Iannuzzi Simona | https://github.com/simonaiannuzzi/progetto-web-design | https://spontaneous-custard-332bc6.netlify.app/ |
 | Fatta Francesca | https://github.com/francescafatta/Progetto-esame-Web-Design | https://stellar-taiyaki-255f2b.netlify.app/ |
 | Perocchio Sara | https://github.com/saraperocchio/Test-web-design | https://fancy-macaron-687e3e.netlify.app/ |
