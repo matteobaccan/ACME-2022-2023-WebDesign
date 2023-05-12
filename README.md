@@ -37,6 +37,6 @@ All'interno del corso di WebDesign ognuno andrà a realizzare la grafica di sito
 | Martiner Chiara | https://github.com/ChiaraMartiner/Index. | |
 | Perocchio Sara | https://github.com/saraperocchio/Test-web-design | https://fancy-macaron-687e3e.netlify.app/ |
 | Polla Arianna | https://github.com/AriannaPolla/AriannaMariaPolla | https://ariannapolla-portfoliodesign.netlify.app/ |
-| Pollastro Sofia | https://github.com/sofiapollastro/SOFIA | |
+| Pollastro Sofia | https://github.com/sofiapollastro/SOFIA | https://sofiawebdesign.netlify.app/ |
 | Severin Aurora | https://github.com/Auro1201/Esercizio-Di-Web-Design | https://statuesque-dodol-691f14.netlify.app/ |
 
