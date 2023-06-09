@@ -35,6 +35,7 @@ All'interno del corso di WebDesign ognuno andrà a realizzare la grafica di sito
 | Fatta Francesca | https://github.com/francescafatta/Progetto-esame-Web-Design | https://stellar-taiyaki-255f2b.netlify.app/ |
 | Iannuzzi Simona | https://github.com/simonaiannuzzi/progetto-web-design | https://spontaneous-custard-332bc6.netlify.app/ |
 | Martiner Chiara | https://github.com/ChiaraMartiner/Esame | |
+| Martinelli Iris | https://github.com/IrisM01/Iris-Martinelli | |
 | Perocchio Sara | https://github.com/saraperocchio/Test-web-design | https://fancy-macaron-687e3e.netlify.app/ |
 | Polla Arianna | https://github.com/AriannaPolla/AriannaMariaPolla | https://ariannapolla-portfoliodesign.netlify.app/ |
 | Pollastro Sofia | https://github.com/sofiapollastro/SOFIA | https://sofiawebdesign.netlify.app/ |
