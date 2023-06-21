@@ -28,6 +28,7 @@ All'interno del corso di WebDesign ognuno andrà a realizzare la grafica di sito
 
 | Alunno | GitHub | Netlify |
 |:------|:------------|:-|
+| Basile Martina | https://github.com/martinabasilee/PAGINAsitoPOGETTOACME | https://magenta-axolotl-7eb052.netlify.app/ |
 | Bossi Sara | https://github.com/BossiSara/NUOVO-PROGETTO-WEB-DESIGN | https://poetic-chaja-7179d1.netlify.app/ |
 | Castellano Annalisa | https://github.com/Annazz15/Progetto-ACME | https://superlative-cranachan-d84123.netlify.app/ |
 | Campisciano Matteo | https://github.com/matteocampisciano/acmeesame | https://codepen.io/Matteo-Campisciano-the-encoder/pen/RwqRvXZ |
