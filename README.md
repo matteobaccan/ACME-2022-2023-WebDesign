@@ -41,5 +41,5 @@ All'interno del corso di WebDesign ognuno andrà a realizzare la grafica di sito
 | Pagano Luisa | <https://github.com/luisapagano/ESAME> | <https://grand-bunny-cc519d.netlify.app> |
 | Perocchio Sara | <https://github.com/saraperocchio/SIto-Web-PerocchioVini> | <https://perocchiovini.netlify.app/> |
 | Polla Arianna | <https://github.com/AriannaPolla/AriannaMariaPolla> | <https://ariannapolla-portfoliodesign.netlify.app/> |
-| Pollastro Sofia | <https://github.com/sofiapollastro/lamodainscatola> | <https://lamodainscatola.netlify.app/> |
+| Pollastro Sofia | <https://github.com/sofiapollastro/lamodainscatola> | <https://natureplants.netlify.app/> |
 | Severin Aurora | <https://github.com/Auro1201/Esercizio-Di-Web-Design> | <https://statuesque-dodol-691f14.netlify.app/> |
