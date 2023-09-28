@@ -35,7 +35,7 @@ All'interno del corso di WebDesign ognuno andrà a realizzare la grafica di sito
 | Cimma Chiara | <https://github.com/chiaracimma/chiara> | <https://chiaracimmabrand.netlify.app/> |
 | Coretto Ariele | <https://github.com/ari8975/Ariele-Coretto> | <https://euphonious-bublanina-142fae.netlify.app/> |
 | Fatta Francesca | <https://github.com/francescafatta/Progetto-esame-Web-Design> | <https://stellar-taiyaki-255f2b.netlify.app/> |
-| Iannuzzi Simona | <https://github.com/simonaiannuzzi/progetto-web-design> | <https://spontaneous-custard-332bc6.netlify.app/> |
+| Iannuzzi Simona | <https://github.com/simonaiannuzzi/progetto-web-design> | <https://prolocodicasalbeltrame.netlify.app/> |
 | Martinelli Iris | <https://github.com/IrisM01/Iris-Martinelli> | <https://timely-croquembouche-0da168.netlify.app/> |
 | Martiner Chiara | <https://github.com/ChiaraMartiner/Esame> | <https://storied-pothos-7ab241.netlify.app/> |
 | Pagano Luisa | <https://github.com/luisapagano/ESAME> | <https://grand-bunny-cc519d.netlify.app> |
